@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "yandex-money-sdk@0.1.7",
+      "/home/c6192/fortune-time.ru"
+    ]
+  ],
+  "_from": "yandex-money-sdk@0.1.7",
+  "_id": "yandex-money-sdk@0.1.7",
+  "_inBundle": false,
+  "_integrity": "sha512-vdRko56Vud0KNMkebEhcc7JcgNQvFVRqep1GyWgcxIJ4SDNWkW27eIRLsIxV5y8UL/oXmrG+CID5LwLOFZZnVQ==",
+  "_location": "/yandex-money-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "yandex-money-sdk@0.1.7",
+    "name": "yandex-money-sdk",
+    "escapedName": "yandex-money-sdk",
+    "rawSpec": "0.1.7",
+    "saveSpec": null,
+    "fetchSpec": "0.1.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/yandex-money-sdk/-/yandex-money-sdk-0.1.7.tgz",
+  "_spec": "0.1.7",
+  "_where": "/home/c6192/fortune-time.ru",
+  "author": {
+    "name": "NBCO Yandex.Money LLC",
+    "email": "ermak@yamoney.ru"
+  },
+  "dependencies": {
+    "request": "2.9.x"
+  },
+  "description": "SDK for working with yandex money API",
+  "devDependencies": {
+    "mocha": ">= 1.21.0"
+  },
+  "keywords": [
+    "yandex",
+    "money",
+    "sdk"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "yandex-money-sdk",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.7"
+}
