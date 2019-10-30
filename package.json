@@ -32,7 +32,7 @@
     "email": "ermak@yamoney.ru"
   },
   "dependencies": {
-    "request": "2.9.x"
+    "request": "2.88.x"
   },
   "description": "SDK for working with yandex money API",
   "devDependencies": {
